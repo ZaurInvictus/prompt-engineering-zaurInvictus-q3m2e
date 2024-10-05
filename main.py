@@ -67,3 +67,7 @@ ss.current_prompt_name = technique
 
 # Run Main app logic
 view.render(controller)
+
+
+# Feel free to also add to the bottom of main.py the snippet: st.write(ss) which essentially prints out to the bottom of the screen what the stored values are.
+st.write(ss)
